@@ -6,11 +6,8 @@ Página creada para compartir información de Escazú Ahora
   <title> Escazú Joven Ahora</title>
       <head><center><font color="black" size="11px">Síguemos y comparte la información de nuestras redes</font><br/>
 <img src="C:\Users\NICOLE\Downloads\ESCAZUIMAGEN.png">
-     </center>
 
 <body>
-
-<center>
  
 <center><b>BÚSCANOS EN FACEBOOK :<br/></b>
    <center><u>EscazúAhora - Perú : <br/></u>
@@ -27,10 +24,9 @@ Página creada para compartir información de Escazú Ahora
    <center><u><a href="https://forms.gle/hKZL1pR82tBSHYAQ7">FORMULARIO</u><br/>
 
   
-   <center> <embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
+   <center><embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
 
          <img src="C:\Users\NICOLE\Downloads\WhatsApp Image 2020-07-31 at 11.10.48 AM.jpeg">
-
 
 
 </body>
