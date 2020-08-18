@@ -11,22 +11,22 @@ Página creada para compartir información de Escazú Ahora
 <body>
 
 
-<center
+<center>
  
-<b>BÚSCANOS EN FACEBOOK :<br/></b>
-   <u>EscazúAhora - Perú : <br/></u>
-   <u><a href="https://www.facebook.com/EscazuAhoraPeru">Escazú Joven Ahora</a><br/></u>
-<b>BÚSCANOS EN TWITTER :<br/></b>
-   <u>@EscazuP :<br/></u>
-   <u><a href="https://twitter.com/EscazuP">EscazuAhoraPeru</a><br/></u>
-<b>BÚSCANOS EN INSTAGRAM :<br/></b>
-   <u>@escazuahoraperu :<br/></u>
-  <u><a href="https://www.instagram.com/escazuahoraperu/?hl=es-la">escazuahoraperu</a><br/></u>
-<b>CARPETA DRIVE CON FLYERS DEL SEGUNDO TUITAZO :<br/></b>      
-   <u><a href="https://drive.google.com/drive/folders/1qnR9o1Uet2w6r55kldTLBf8a7x-OJEee">TUITAZO #VOCESXESCAZÚ</a><br/></u>
-<b>FORMULARIO PARA CONTACTARNOS CON TU ORGANIZACIÓN<br/></b>
-   <u><a href="https://forms.gle/hKZL1pR82tBSHYAQ7">FORMULARIO</u><br/>
->
+<center><b>BÚSCANOS EN FACEBOOK :<br/></b>
+   <center><u>EscazúAhora - Perú : <br/></u>
+   <center><u><a href="https://www.facebook.com/EscazuAhoraPeru">Escazú Joven Ahora</a><br/></u>
+<center><b>BÚSCANOS EN TWITTER :<br/></b>
+   <center><u>@EscazuP :<br/></u>
+   <center><u><a href="https://twitter.com/EscazuP">EscazuAhoraPeru</a><br/></u>
+<center><b>BÚSCANOS EN INSTAGRAM :<br/></b>
+   <center><u>@escazuahoraperu :<br/></u>
+  <center><u><a href="https://www.instagram.com/escazuahoraperu/?hl=es-la">escazuahoraperu</a><br/></u>
+<center><b>CARPETA DRIVE CON FLYERS DEL SEGUNDO TUITAZO :<br/></b>      
+   <center><u><a href="https://drive.google.com/drive/folders/1qnR9o1Uet2w6r55kldTLBf8a7x-OJEee">TUITAZO #VOCESXESCAZÚ</a><br/></u>
+<center><b>FORMULARIO PARA CONTACTARNOS CON TU ORGANIZACIÓN<br/></b>
+   <center><u><a href="https://forms.gle/hKZL1pR82tBSHYAQ7">FORMULARIO</u><br/>
+
   
    <center> <embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
 
