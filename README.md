@@ -10,7 +10,6 @@ Página creada para compartir información de Escazú Ahora
 
 <body>
 
-
 <center>
  
 <center><b>BÚSCANOS EN FACEBOOK :<br/></b>
