@@ -6,7 +6,7 @@ Página creada para compartir información de Escazú Ahora
   <title> Escazú Joven Ahora</title>
       <head><center><font color="black" size="11px">Síguemos y comparte la información de nuestras redes</font><br/>
 <img src="C:\Users\NICOLE\Downloads\ESCAZUIMAGEN.png">
-     </head></center>
+     </center>
 
 <body>
 
