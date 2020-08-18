@@ -28,7 +28,7 @@ Página creada para compartir información de Escazú Ahora
    <center><u><a href="https://forms.gle/hKZL1pR82tBSHYAQ7">FORMULARIO</u><br/>
 
   
-   <center> <embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
+   <center><embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
 
          <img src="C:\Users\NICOLE\Downloads\WhatsApp Image 2020-07-31 at 11.10.48 AM.jpeg">
 
