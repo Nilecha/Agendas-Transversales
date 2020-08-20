@@ -26,7 +26,8 @@ Página creada para compartir información de Escazú Ahora
   
    <center><embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
 
-         <img src="C:\Users\NICOLE\Downloads\WhatsApp Image 2020-07-31 at 11.10.48 AM.jpeg">
+         <img src="https://www.google.com/search?q=Escazú+Ahora+peru&client=ms-android-huawei&prmd=minv&sxsrf=ALeKk00EhY8Hhilc_KZ1JMjyYqeJZ4u0pQ:1597965131683&source=lnms&tbm=isch&sa=X&ved=2ahUKEwid_6WA9KrrAhXtuFkKHQ6LC-oQ_AUoAnoECA0QAg&biw=360&bih=600#imgrc=WeZ6c_Y3zGUYxM">
+
 
 </body>
 </html>
