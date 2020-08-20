@@ -18,8 +18,8 @@ Página creada para compartir información de Escazú Ahora
 <center><b>BÚSCANOS EN INSTAGRAM :<br/></b>
    <center><u>@escazuahoraperu :<br/></u>
   <center><u><a href="https://www.instagram.com/escazuahoraperu/?hl=es-la">escazuahoraperu</a><br/></u>
-<center><b>CARPETA DRIVE CON FLYERS DEL SEGUNDO TUITAZO :<br/></b>      
-   <center><u><a href="https://drive.google.com/drive/folders/1qnR9o1Uet2w6r55kldTLBf8a7x-OJEee">TUITAZO #VOCESXESCAZÚ</a><br/></u>
+<center><b>MEDIA KIT :<br/></b>      
+   <center><u><a href="https://drive.google.com/drive/folders/1qnR9o1Uet2w6r55kldTLBf8a7x-OJEee">MATERIAL</a><br/></u>
 <center><b>FORMULARIO PARA CONTACTARNOS CON TU ORGANIZACIÓN<br/></b>
    <center><u><a href="https://forms.gle/hKZL1pR82tBSHYAQ7">FORMULARIO</u><br/>
 
@@ -27,7 +27,6 @@ Página creada para compartir información de Escazú Ahora
    <center><embed src="C:\Users\NICOLE\Documents\Cuarentena\ESCAZU_AHORA.mp4" width="1200" height="500">
 
          <img src="C:\Users\NICOLE\Downloads\WhatsApp Image 2020-07-31 at 11.10.48 AM.jpeg">
-
 
 </body>
 </html>
